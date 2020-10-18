@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=0f3RrvC-zGI --> Discord desktop app Remote Code 
 
 https://inteltechniques.com/messaging.html --> Encrypted Comms Comparison Chart
 
+(https://labs.jumpsec.com/defending-your-malware/) --> Defending Your Malware
+[https://labs.jumpsec.com/defending-your-malware] Defending Your Malware
